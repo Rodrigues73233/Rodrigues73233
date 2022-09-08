@@ -1,20 +1,36 @@
 <h1 align="center">Olá, seja bem-vinda(o) ao meu repositório! 👋</h1>
 
+<div align="center" style="display: inline_row">
+  <div align="center">
+    <h4>
+    😁 Me chamo Gabriel Rodrigues Batista e tenho 18 anos 😁 <br>
+    🌱 Estudante de Análise e Desenvolvimento de Sistemas no CEUB (2°semestre) 🌱 <br>
+    🖥️ Apaixonado por tecnologia 🖥️ <br>
+    🔭 Focado no momento no Front-End, buscando me tornar um Full Stack 🔭 <br>
+    ✨ Aprender, praticar e inovar ✨<br>
+    😇 Pronomes: ele/dele 😇 <br><br>
+    </h4>
+  </div>
+</div>
+
+## GitHub Stats
 <div align="center">
   <a href="https://github.com/Rodrigues73233">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigues73233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues73233&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+## Technologies & Tools
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Gabriel-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Js" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Gabriel-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-CSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Gabriel-Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
-  
+## Contate-me
 <div>
   <a href = "mailto:gr73233@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-3397a5232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
