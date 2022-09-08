@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Rodrigues, estudante de ADS no CEUB.
+<h1 align="center">Olá, seja bem-vinda(o) ao meu repositório! 👋</h1>
 
 ##
 
