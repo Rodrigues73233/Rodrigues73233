@@ -1,15 +1,15 @@
-<h1 align="center">Olá, seja bem-vinda(o) ao meu repositório! 👋</h1>
+<h1 align="center">Olá, seja bem-vindo(a) ao meu repositório! 👋</h1>
 
 <div align="center" style="display: inline_row">
   <div align="center">
-    <h4>
+    <h3>
     😁 Me chamo Gabriel Rodrigues Batista e tenho 18 anos 😁 <br>
     🌱 Estudante de Análise e Desenvolvimento de Sistemas no CEUB (2°semestre) 🌱 <br>
     🖥️ Apaixonado por tecnologia 🖥️ <br>
     🔭 Focado no momento no Front-End, buscando me tornar um Full Stack 🔭 <br>
     ✨ Aprender, praticar e inovar ✨<br>
     😇 Pronomes: ele/dele 😇 <br><br>
-    </h4>
+    </h3>
   </div>
 </div>
 
