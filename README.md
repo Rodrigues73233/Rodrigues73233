@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Gabriel Rodrigues, estudante de ADS no CEUB.
 
+##
+
 <div align="center">
   <a href="https://github.com/Rodrigues73233">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigues73233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
