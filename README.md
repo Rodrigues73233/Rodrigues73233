@@ -5,8 +5,8 @@
     <h3>
     😁 Me chamo Gabriel Rodrigues Batista e tenho 18 anos 😁 <br><br>
     🌱 Estudante de Análise e Desenvolvimento de Sistemas no CEUB (2°semestre) 🌱 <br>
-    🖥️ Apaixonado por tecnologia 🖥️ <br>
     🔭 Focado no momento no Front-End, buscando me tornar um Full Stack 🔭 <br>
+    🖥️ Apaixonado por tecnologia 🖥️ <br>
     ✨ Aprender, praticar e inovar ✨<br>
     😇 Pronomes: ele/dele 😇 <br><br>
     </h3>
