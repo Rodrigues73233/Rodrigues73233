@@ -8,7 +8,7 @@
     🔭 Focado no momento no Front-End, buscando me tornar um Full Stack 🔭 <br>
     🖥️ Apaixonado por tecnologia 🖥️ <br>
     ✨ Aprender, praticar e inovar ✨<br>
-    😇 Pronomes: ele/dele 😇 <br><br>
+    <br>
     </h3>
   </div>
 </div>
