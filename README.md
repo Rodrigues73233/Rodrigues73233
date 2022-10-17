@@ -39,3 +39,4 @@
 
 ## Repositórios Principais
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigues73233&repo=Projeto-Final-Senai-Lanchonete&theme=algolia)](https://github.com/Rodrigues73233/Projeto-Final-Senai-Lanchonete)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigues73233&repo=100-Days-of-Code-Front-End&theme=algolia)](https://github.com/Rodrigues73233/100-Days-of-Code-Front-End)
