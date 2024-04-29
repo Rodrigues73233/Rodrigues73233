@@ -3,8 +3,8 @@
 <div align="center" style="display: inline_row">
   <div align="center">
     <h3>
-    😁 Me chamo Gabriel Rodrigues Batista e tenho 19 anos 😁 <br><br>
-    🌱 Estudante de Análise e Desenvolvimento de Sistemas no CEUB (4°semestre) 🌱 <br>
+    😁 Me chamo Gabriel Rodrigues Batista e tenho 20 anos 😁 <br><br>
+    🌱 Estudante de Análise e Desenvolvimento de Sistemas no CEUB (5°semestre) 🌱 <br>
     🔭 Focado no momento no Front-End e na arquitetura da AWS Cloud, buscando me tornar um Full Stack 🔭 <br>
     🖥️ Apaixonado por tecnologia 🖥️ <br>
     ✨ Aprender, praticar e inovar ✨<br>
